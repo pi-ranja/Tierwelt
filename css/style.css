@@ -1,0 +1,23 @@
+body {
+background-color: #ffffff;
+font-family: Arial, sans-serif;
+}
+
+h1 {
+color: #333333;
+text-align: center;
+text-shadow: 2px 2px 4px #cccccc;
+}
+h2 {
+    background-color: #ffe2bb;
+    color: #000000;
+}
+nav {
+    background-color: #ffffff;
+    color: #000000;
+    font-family: Arial, sans-serif;
+}
+img {
+    width: 100%;
+    height: auto;
+}
