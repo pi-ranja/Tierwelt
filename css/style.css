@@ -44,3 +44,20 @@ ul li a {
 ul li a:hover {
   background-color: #111111;
 }
+#list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: wheat;
+}
+.tiere{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+.tiere {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 20px;
+    font-size: 1.5rem;
+    text-align: center;
+}
