@@ -1,15 +1,17 @@
 body {
-background-color: #ffffff;
-font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  font-family: Arial, sans-serif;
 }
 
 h1 {
-color: #333333;
-text-align: center;
-text-shadow: 2px 2px 4px #cccccc;
+  color: #333333;
+  background-color: #f9e4c8;
+  text-align: center;
+  text-shadow: 2px 2px 4px #290e0e;
+  min-height: vh;
 }
 h2 {
-    background-color: #ffe2bb;
+    background-color: #f9e4c8;
     color: #000000;
 }
 nav {
@@ -60,4 +62,12 @@ ul li a:hover {
     padding: 20px;
     font-size: 1.5rem;
     text-align: center;
+}
+div p {
+  background-color: #ffffff;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
