@@ -1,6 +1,6 @@
 # Tier-Welt
 
-[🔗 Live-System ansehen](http://127.0.0.1:5500/index.html)
+[Live-System ansehen](http://127.0.0.1:5500/index.html)
 Bei dem Git Hub Link funktionier die Synchronisation ja nicht. Deshalb habe ich mal diesen Link, vom Live Server von VS hinzugefüght, aber Sie haben glaube ich keinen Zugriff darauf. Aus diesem Grund füge ich Screenshots von meiner Website in der Teams abgabe an.
 
 ## Thema & Zielgruppe
