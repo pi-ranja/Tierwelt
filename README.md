@@ -10,27 +10,29 @@ Das Projekt behandelt Nachtaktive Tiere in der Wüste und richtet sich an Person
 ## Seitenübersicht & Navigationskonzept
 
 - **Startseite**: Einführung und Überblick
-- **[Lebensraum]**: [Kurzbeschreibung]
-- **[Unterseite 2]**: [Kurzbeschreibung]
-- **Kontakt / Impressum**: Rechtliche Infos & Kontaktmöglichkeiten
+- **Lebensraum**: In diesem Abschnitt geht es um den Lebensraum. Da nicht alle Tiere am gleichen Ort leben, habe ich im allgemeinen ehrer um die Wüstenbedingungen berichtet und da auch ein Karte eingefühgt. 
+- **Überleben in der Wüste**: In dem Abschnitt geht es darum, wie die Tiere Wasser bekommen und mit der extremen Hitze umgehen.
+- **Kontakt / Impressum**: Bei der letzten Seite geht es um meine Kontakt Daten u.s.w.
 
-Die Navigation erfolgt über eine feste Menüleiste oben auf jeder Seite.
+Die Navigation erfolgt über eine feste Menüleiste oben auf jeder Seite. Es gibt im Footer zusätzlich einen Click me! Button, der einem zur nächsten Seite beföhrdert.
 
-## 📚 Genutzte Quellen
+## Genutzte Quellen
 
-- **Bilder**: z. B. [Unsplash](https://unsplash.com), eigene Aufnahmen, oder [Quelle angeben]
-- **Texte**: Eigene Inhalte oder [Quellen mit Lizenzhinweis]
-- Alle verwendeten Materialien sind urheberrechtlich geprüft oder lizenzfrei nutzbar.
+**Bilder**
+- Dune1: Das habe ich selbst erstellt
+- Pallid Bat: Pixabay
+- Kennek: Pixabay
+- Kängururatten: Wikipeia
+- Gecko: Pixabay
 
-## ✨ Besonderheiten / Extras
+**Texte**
+- Spektrum der Wissenschaft (Kurz Beschrieb: Kängururatte, Fennek)
+- Texas Parks and Wildlife (Kurz Beschrieb: Pallid Bat)
+- Geo (Kurz Beschrieb: Gecko)
 
-- Interaktive Galerie mit Filterfunktion
-- Animationen beim Scrollen mit [z. B. AOS.js]
-- Responsives Design für Mobilgeräte
+## Besonderheiten / Extras
+...
 
-## ⚠️ Bekannte Limitierungen & Ideen für Weiterentwicklung
 
-- Eingeschränkte Barrierefreiheit (z. B. Kontrast, Tastatur-Navigation)
-- Noch keine Mehrsprachigkeit
-- Idee: Integration eines Kontaktformulars mit Validierung
-- Idee: Dunkelmodus hinzufügen
+## Bekannte Limitierungen & Ideen für Weiterentwicklung
+...
