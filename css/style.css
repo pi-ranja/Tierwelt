@@ -1,14 +1,8 @@
-body {
-  background-color: #ffffff;
-  font-family: Arial, sans-serif;
-}
-
 h1 {
   color: #333333;
   background-color: #f9e4c8;
+  border-radius: 0%;
   text-align: center;
-  text-shadow: 2px 2px 4px #290e0e;
-  min-height: vh;
 }
 h2 {
     background-color: #f9e4c8;
@@ -66,8 +60,36 @@ ul li a:hover {
 div p {
   background-color: #ffffff;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.2rem;
+}
+div img{
+  height: 400px;
+  width: 300px;
+
+
 }
 h3{
-  font-size: larger;
+  font-size: 3rem;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
 }
+footer{
+  background-color: #333333;
+}
+footer p{
+  color: #ffffff;
+}
+footer p a{
+  color: #ffffff;
+}
+footer h4{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+footer h2{
+  background-color: #333333;
+  color: aliceblue;
+  font-size: 1.3rem;
+}
+
