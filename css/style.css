@@ -19,7 +19,7 @@ img {
     width: 100%;
     height: auto;
 }
-ul {
+nav ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -27,11 +27,11 @@ ul {
   background-color: #333333;
 }
 
-ul li {
+nav ul li {
   float: left;
 }
 
-ul li a {
+nav ul li a {
   display: block;
   color: white;
   text-align: center;
@@ -39,7 +39,7 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
+nav ul li a:hover {
   background-color: #111111;
 }
 
@@ -179,6 +179,45 @@ div.galleryitem div.desc {
   padding: 3%;
   text-align: center;
 }
+.contact {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.contact h1 {
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+.contact form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact input,
+.contact textarea {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.contact button {
+  background: #333333;
+  color: #ffffff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  font-size: 1rem;
+}
+
+.contact button:hover {
+  background: #555555;
+}
 footer{
   background-color: #333333;
 }
@@ -197,4 +236,5 @@ footer h2{
   background-color: #333333;
   color: aliceblue;
   font-size: 1.3rem;
+  text-align: left;
 }
