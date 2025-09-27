@@ -30,6 +30,8 @@ Die Navigation erfolgt über eine feste Menüleiste am oberen Rand jeder Seite. 
 - Anpassen: Unsplash
 - Essen: Pixabay
 - Tarnung: Pixabay
+- Dune: Unsplash
+
 
 **Informationen**
 - Spektrum der Wissenschaft (Kurz Beschrieb: Kängururatte, Fennek)

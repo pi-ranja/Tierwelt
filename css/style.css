@@ -152,6 +152,33 @@ h3 {
   width: 100%;
   height: 100%;
 }
+
+div.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+div.galleryitem {
+  margin: 2%;
+  border: 1px solid #ccc;
+  width: 20%;
+  align-items: center;
+}
+
+div.galleryitem:hover {
+  border: 1px solid #777;
+}
+
+div.galleryitem img {
+  width: 100%;
+  height: auto;
+}
+
+div.galleryitem div.desc {
+  padding: 3%;
+  text-align: center;
+}
 footer{
   background-color: #333333;
 }
