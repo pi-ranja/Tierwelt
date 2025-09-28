@@ -4,7 +4,6 @@
 Der GitHub-Link funktioniert leider nicht für die Synchronisation. Deshalb habe ich stattdessen den Link vom Live-Server in Visual Studio eingefügt. Ich vermute jedoch, dass Sie keinen Zugriff darauf haben. Aus diesem Grund füge ich in der Teams-Abgabe Screenrecords meiner Website bei.
 
 ## Thema & Zielgruppe
-
 Das Projekt behandelt nachtaktive Tiere in der Wüste und richtet sich an Personen, die sich für dieses Thema interessieren, jedoch nicht mit Informationen überflutet werden möchten.
 
 ## Seitenübersicht & Navigationskonzept
@@ -34,13 +33,25 @@ Die Navigation erfolgt über eine feste Menüleiste am oberen Rand jeder Seite. 
 
 
 **Informationen**
-- Spektrum der Wissenschaft (Kurz Beschrieb: Kängururatte, Fennek)
+- Spektrum der Wissenschaft (Kurz Beschrieb: Kängururatte, Fennek, Überleben)
 - Texas Parks and Wildlife (Kurz Beschrieb: Pallid Bat)
-- Geo (Kurz Beschrieb: Gecko)
+- Geo (Kurz Beschrieb: Gecko, Lebensraum)
+- Wikipedia (Lebensraum, Schutz)
+- Animalia (Lebensraum, Schutz, Überleben)
+- Mäuseasyl (Schutz)
+- Zoo Zürich (Schutz)
+- National Geographic (Überleben)
+
+**Weiter Quellen**
+Wenn ich nicht weiter gekommen bin, bin ich auf die Website W3 School gegangen um zu schauen wie ich weiter machen kann. 
+Ich habe diese Website auch genuzt, um Ideen zu finden wie ich meine Website aufbauen sollte.
 
 ## Besonderheiten / Extras
-...
+An meiner Website ist die Gallerie auf der Seite Überleben_in_der_Wüste besonders, da wenn man mit dder Maus darüber fährt, wir der Rahmen von grau zu Schwarz.
+Bei der Seite contact, finde ich das Kontaktformular besonders, da ich mir dachte, dass ich nicht meine Ganzen Informationen ins Internet stellen müchte. Es funktioniert nicht, also ich bekomme die Mail nicht aber das könnte man ja noch einbauen probieren.
+
 
 
 ## Bekannte Limitierungen & Ideen für Weiterentwicklung
-...
+Man könnte das Kontaktformular machen, dass die E-Mail an meine Mailadresse geschickt wird.
+Man könnte noch die Website auch für mobil Geräte verfügbar machen.
