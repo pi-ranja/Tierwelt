@@ -1,6 +1,6 @@
 # Tier-Welt
 
-[Live-System ansehen](http://127.0.0.1:5500/index.html)
+[Live-System ansehen](https://pi-ranja.github.io/Tierwelt/)
 Der GitHub-Link funktioniert leider nicht für die Synchronisation. Deshalb habe ich stattdessen den Link vom Live-Server in Visual Studio eingefügt. Ich vermute jedoch, dass Sie keinen Zugriff darauf haben. Aus diesem Grund füge ich in der Teams-Abgabe Screenrecords meiner Website bei.
 
 ## Thema & Zielgruppe
